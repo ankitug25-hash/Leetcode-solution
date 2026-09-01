@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
