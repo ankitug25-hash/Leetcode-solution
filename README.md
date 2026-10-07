@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [1518-water-bottles](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/1518-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/ankitug25-hash/Leetcode-solution/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
